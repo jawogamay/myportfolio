@@ -281,7 +281,7 @@ module.exports = "@import url(\"https://cdnjs.cloudflare.com/ajax/libs/font-awes
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"profile\">\n\t<h2> Techvalley | Web Developer </h2>\n\t<br>\n\t<i class=\"fa fa-google\"></i>&nbsp;&nbsp;&nbsp;<span>ninomasbang@gmail.com</span>\n\t<br><br>\n\t<a href=https://www.facebook.com/kaneki.xded\"><i class=\"fa fa-facebook\"></i>&nbsp;&nbsp;FACEBOOK</a>\n\t<br><br>\n\t<hr>\n\t<h2>Objective</h2>\n\t<p>To be able to work in career oriented and challenging environment that promotes personal growth and uplifts professional development</p>\n</div>\n\n"
+module.exports = "<div class=\"profile\">\n\t<h2> Techvalley | Web Developer </h2>\n\t<br>\n\t<i class=\"fa fa-google\"></i>&nbsp;&nbsp;&nbsp;<span>ninomasbang@gmail.com</span>\n\t<br><br>\n\t<a href=\"https://www.facebook.com/kaneki.xded\"><i class=\"fa fa-facebook\"></i>&nbsp;&nbsp;FACEBOOK</a>\n\t<br><br>\n\t<hr>\n\t<h2>Objective</h2>\n\t<p>To be able to work in career oriented and challenging environment that promotes personal growth and uplifts professional development</p>\n</div>\n\n"
 
 /***/ }),
 
